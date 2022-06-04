@@ -1,5 +1,5 @@
 - 👋 Hola, I am Rishabh Bassi
-- 👀 I’m Computer Sceince Grad with specialization done in Machine Learning and worked as Senior Engineer at Western Digital.
+- 👀 I’m Computer Science Grad with specialization done in Machine Learning and worked as Senior Engineer at Western Digital.
 - 🌱 I’m interested in Machine Learning and currently learning NLP and Deep Learning
 - 💞️ I’m looking to collaborate on Natural Language Processing
 
