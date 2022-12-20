@@ -1,6 +1,6 @@
 - 👋 Hola, I am Rishabh Bassi
-- 👀 I’m Computer Science Grad with specialization done in Machine Learning and worked as Senior Engineer at Western Digital.
-- 🌱 I’m interested in Machine Learning and currently learning NLP and Deep Learning
+- 👀 I’m Computer Science Graduate Student at Texas A&M University with specialization in Machine Learning. I have worked as Senior Engineer at Western Digital and right now working as research Assistant in TAMU.
+- 🌱 I’m interested in Machine Learning and currently pursuing research on NLP and Deep Learning
 - 💞️ I’m looking to collaborate on Natural Language Processing
 
 <!---
