@@ -1,6 +1,4 @@
-- 👋 Hola, I am Rishabh Bassi
-  AI/ML Engineer @ Apple, building production AI Software Systems at scale.
-  
+- 👋 Hola, I am Rishabh Bassi : AI/ML Engineer @ Apple, building production AI Software Systems at scale.
 - 👀 I’m Computer Science Graduate Student at Texas A&M University with specialization in Machine Learning. 
 - I have worked as Senior Engineer at Western Digital, AMD and Linkedin. 
 - I have been involved in AI/ML research, pursuing research on NLP and Deep Learning and have worked as research Assistant in TAMU.
